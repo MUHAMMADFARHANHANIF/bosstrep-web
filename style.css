@@ -1,0 +1,12 @@
+.card img{
+    width: 100%;
+    height: 200px;
+}
+.card{
+    margin-top: 10px;
+}
+.carousel-inner img{
+    width: 200px;
+    height: 800px;
+
+}
